@@ -1,0 +1,12 @@
+[submodule "Knights/Assets/Game/Scripts/Character3D"]
+	path = Knights/Assets/Game/Scripts/Character3D
+	url = https://github.com/kalkatos/character-3d.git
+[submodule "Knights/Assets/Game/Scripts/CSharpGame"]
+	path = Knights/Assets/Game/Scripts/CSharpGame
+	url = https://github.com/kalkatos/csharpgame.git
+[submodule "Knights/Assets/Game/Scripts/UnityGame"]
+	path = Knights/Assets/Game/Scripts/UnityGame
+	url = https://github.com/kalkatos/unitygame.git
+[submodule "Knights/Assets/Game/Scripts/Scriptable"]
+	path = Knights/Assets/Game/Scripts/Scriptable
+	url = https://github.com/kalkatos/scriptable.git
